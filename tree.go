@@ -16,6 +16,7 @@ func main() {
 			}
 
 			fmt.Println(path, "[", info.Size(), "]")
+			fmt.Println(path, "[", info.Size(), "]")
 			return nil
 		})
 
